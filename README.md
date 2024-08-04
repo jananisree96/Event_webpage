@@ -2,6 +2,8 @@
 
 A simple and elegant webpage designed to keep you informed about upcoming events you've registered for. The website features a clean black background with white text for a modern and sleek look.
 
+visit - https://jananisree96.neocities.org/event/event
+
 ## Overview
 
 - **Title:** Events
